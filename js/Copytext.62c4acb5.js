@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Copytext"],{ed9b:function(e,t,o){"use strict";o.r(t);var n=o("7a23");function c(e,t,o,c,r,p){var a=Object(n["resolveComponent"])("to-copytext");return Object(n["openBlock"])(),Object(n["createBlock"])("div",null,[Object(n["createVNode"])(a)])}var r=o("5530"),p=Object(n["defineComponent"])({name:"copytext",props:{},components:{},setup:function(e,t){var o=Object(n["reactive"])({msg:""});return Object(r["a"])({},Object(n["toRefs"])(o))}});p.render=c;t["default"]=p}}]);
+//# sourceMappingURL=Copytext.62c4acb5.js.map

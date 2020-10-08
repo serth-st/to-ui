@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Verificationbtn"],{cc5f:function(e,n,t){"use strict";t.r(n);var c=t("7a23");function o(e,n,t,o,r,i){return Object(c["openBlock"])(),Object(c["createBlock"])("div")}var r=t("5530"),i=Object(c["defineComponent"])({name:"verificationbtn",props:{},components:{},setup:function(e,n){var t=Object(c["reactive"])({msg:""});return Object(r["a"])({},Object(c["toRefs"])(t))}});i.render=o;n["default"]=i}}]);
+//# sourceMappingURL=Verificationbtn.1f5d2f33.js.map
